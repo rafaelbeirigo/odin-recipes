@@ -46,5 +46,15 @@ I'll be able to reuse the scaffold of the trickiest part, the recipe page.
 [[file:index.html][index.html]] ≡
 
 #+begin_src html :tangle index.html
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8">
+    <title>My first page from Odin</title>
+  </head>
 
+  <body>
+    
+  </body>
+</html>
 #+end_src

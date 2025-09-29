@@ -85,3 +85,11 @@ Lasagna!
   </body>
 </html>
 #+end_src
+
+Add a link for this recipe on the homepage.
+
+~<<Links to the Recipes>> +≡~
+
+#+begin_src html :noweb-ref Links to the Recipes
+<a href="./recipes/lasagna.html">Lasagna</a>
+#+end_src

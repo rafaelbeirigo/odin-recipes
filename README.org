@@ -72,5 +72,15 @@ Lasagna!
 [[file:recipes/lasagna.html][recipes/lasagna.html]] ≡
 
 #+begin_src html :tangle recipes/lasagna.html
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8">
+    <title>My first page from Odin</title>
+  </head>
 
+  <body>
+
+  </body>
+</html>
 #+end_src

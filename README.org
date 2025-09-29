@@ -62,3 +62,7 @@ It will contain a nice header and links to three recipes.
   </body>
 </html>
 #+end_src
+
+*** Recipes
+These are the three recipes of the website.
+

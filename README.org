@@ -82,6 +82,7 @@ Lasagna!
 
   <body>
     <h1>Lasagna</h1>
+    <<Link to the homepage>>
   </body>
 </html>
 #+end_src
@@ -92,4 +93,13 @@ Add a link for this recipe on the homepage.
 
 #+begin_src html :noweb-ref Links to the Recipes
 <a href="./recipes/lasagna.html">Lasagna</a>
+#+end_src
+
+Now a link to the homepage on the recipe page.
+We'll use this same snippet for all three recipe pages.
+
+~<<Link to the homepage>> +≡~
+
+#+begin_src html :noweb-ref Link to the homepage
+<a href="../index.html">Home</a>
 #+end_src

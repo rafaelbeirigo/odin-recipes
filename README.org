@@ -43,6 +43,10 @@ I'll be able to reuse the scaffold of the trickiest part, the recipe page.
 
 ** Work
 
+*** Homepage
+This is the homepage of the website.
+It will contain a nice header and links to three recipes.
+
 [[file:index.html][index.html]] ≡
 
 #+begin_src html :tangle index.html

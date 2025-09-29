@@ -6,3 +6,15 @@ After completing this project I expect to have improved both my HTML and Git ski
 I'll experiment with a new approach in this project, where I plan everything ahead, and only then start programming.
 
 But first let's get the setup done.
+
+** Setup
+
+#+begin_quote
+1. Create a new repo for this project on GitHub.com and call it odin-recipes and choose the public option instead of the default private.
+
+2. Clone that repository onto your local machine, inside the repos folder that you previously created in the Git Basics lesson. The command should look like git clone git@github.com:username/odin-recipes.git (use SSH).
+
+3. Now cd into the odin-recipes project directory that is now on your local machine.
+
+4. Set up your README.md file and write a brief introduction describing what the current project is and what skills you will have demonstrated once you have completed it. (You can also do this as a self-reflection at the end of the project, which is a good way to review what you have learned.)
+#+end_quote

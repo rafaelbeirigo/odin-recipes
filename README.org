@@ -69,3 +69,8 @@ These are the three recipes of the website.
 **** Recipe 1
 Lasagna!
 
+[[file:recipes/lasagna.html][recipes/lasagna.html]] ≡
+
+#+begin_src html :tangle recipes/lasagna.html
+
+#+end_src

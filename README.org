@@ -1,0 +1,8 @@
+* Introduction
+In this project, I am going to build a basic recipe website.
+
+After completing this project I expect to have improved both my HTML and Git skills.
+
+I'll experiment with a new approach in this project, where I plan everything ahead, and only then start programming.
+
+But first let's get the setup done.

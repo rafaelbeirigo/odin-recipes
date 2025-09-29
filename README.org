@@ -42,3 +42,9 @@ The plan: do it in the order of the assignment.
 I'll be able to reuse the scaffold of the trickiest part, the recipe page.
 
 ** Work
+
+[[file:index.html][index.html]] ≡
+
+#+begin_src html :tangle index.html
+
+#+end_src

@@ -18,3 +18,23 @@ But first let's get the setup done.
 
 4. Set up your README.md file and write a brief introduction describing what the current project is and what skills you will have demonstrated once you have completed it. (You can also do this as a self-reflection at the end of the project, which is a good way to review what you have learned.)
 #+end_quote
+
+** Plan
+
+I believe the first thing to do would be to outline the project files and their roles.
+
+- [D] odin-recipes
+  - index.html
+    - links to recipes (unordered list)
+  - [D] recipes
+    - recipe1.html
+      - image (free)
+      - description
+      - ingredients (ul)
+      - steps (ol)
+    - recipe2.html
+    - recipe3.html
+
+
+The plan: do it in the order of the assignment.
+I'll be able to reuse the scaffold of the trickiest part, the recipe page.

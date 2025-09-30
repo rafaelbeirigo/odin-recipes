@@ -251,10 +251,10 @@ Let's add the first recipe page.
   <body>
     <h1>Butterbeer</h1>
     <<Recipe picture>>
-    <<Link to home>>
     <<Recipe description>>
     <<Ingredients>>
     <<Steps>>
+    <<Link to home>>
   </body>
 </html>
 #+end_src

@@ -27,7 +27,7 @@ This is the list of planned commits, in order.
 To get here, I first outlined the folder structure, then looked at each file role and related tasks from the project assignment, finally ordered them.
 To makes things easier, I prepared all the pages' content ahead of time (recipe stuff kept on the branch dev).
 
-*** TODO feat(home): add index.html
+*** DONE feat(home): add index.html
 *** TODO feat(home): add html boilerplate
 *** TODO feat(home): add page title
 *** TODO feat(home): add main header
@@ -209,3 +209,9 @@ Finally, under the ingredients list, add a “Steps” heading followed by an or
 </ol>
 #+end_src
 ** Work
+
+[[file:index.html][index.html]] ≡
+
+#+begin_src html :tangle index.html
+
+#+end_src

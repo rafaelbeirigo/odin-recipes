@@ -68,7 +68,7 @@ A free image of the finished dish under the h1 heading that you added earlier.
 #+begin_quote
 Under the image, it should have an appropriately sized “Description” heading followed by a paragraph or two describing the recipe.
 #+end_quote
-**** TODO feat(recipe): add ingredients
+**** DONE feat(recipe): add ingredients
 #+begin_quote
 Under the description, add an “Ingredients” heading followed by an unordered list of the ingredients needed for the recipe.
 #+end_quote
@@ -253,6 +253,7 @@ Let's add the first recipe page.
     <<Recipe picture>>
     <<Link to home>>
     <<Recipe description>>
+    <<Ingredients>>
   </body>
 </html>
 #+end_src
@@ -300,4 +301,18 @@ Let's add a nice picture, with all the important attributes, and also git the pr
   Frothy and comforting, it carries a rich butterscotch flavor with a hint of spice.
   Served warm in winter or chilled in summer, this Muggle-friendly version recreates the cozy feel without needing an enchanted barrel.
 </p>
+#+end_src
+
+~<<Ingredients>> +≡~
+
+#+begin_src html :noweb-ref Ingredients
+<h2>Ingredients</h2>
+<ul>
+  <li>2 cups cream soda (chilled or lightly warmed)</li>
+  <li>2 tbsp butterscotch syrup (or caramel syrup)</li>
+  <li>1 tbsp unsalted butter</li>
+  <li>½ cup heavy whipping cream</li>
+  <li>1 tsp vanilla extract</li>
+  <li>Pinch of cinnamon (optional)</li>
+</ul>
 #+end_src

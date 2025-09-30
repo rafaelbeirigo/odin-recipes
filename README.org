@@ -50,7 +50,7 @@ All are adapted for Muggle kitchens, so you can enjoy a bit of Hogwarts magic at
 #+end_src
 **** DONE feat(recipe): add html boilerplate
 **** DONE feat(recipe): add page title
-**** TODO feat(recipe): add main header
+**** DONE feat(recipe): add main header
 **** TODO feat(recipe): add link to home
 #+begin_quote
 Add a link back to the index page on your recipe page for easier navigation.
@@ -249,6 +249,7 @@ Let's add the first recipe page.
   </head>
 
   <body>
+    <h1>Butterbeer</h1>
   </body>
 </html>
 #+end_src

@@ -77,140 +77,6 @@ To makes things easier, I prepared all the pages' content ahead of time (recipe 
     Finally, under the ingredients list, add a “Steps” heading followed by an ordered list of the steps needed for making the dish.
     #+end_quote
 
-** Contents for the Recipes
-
-*** Butterbeer
-#+begin_src html
-<h1>Butterbeer</h1>
-
-<img
-  src="./images/butterbeer.jpg"
-  alt="Three different glasses with butterbeer and several bottles, barrels, in a pub/tavern-like scenario."
-  >
-
-<p>
-  Image credit:
-  <a href="https://commons.wikimedia.org/wiki/File:Wizarding_World_of_Harry_Potter_-_Hog%27s_Head_pub_beverages_(5014156760).jpg">The Conmunity -  Pop Culture Geek from Los Angeles, CA, USA</a>, <a href="https://creativecommons.org/licenses/by/2.0">CC BY 2.0</a>, via Wikimedia Commons.
-</p>
-
-<h2>Description</h2>
-<p>
-  Butterbeer is the quintessential wizarding drink, enjoyed by Hogwarts students on trips to Hogsmeade.
-  Frothy and comforting, it carries a rich butterscotch flavor with a hint of spice.
-  Served warm in winter or chilled in summer, this Muggle-friendly version recreates the cozy feel without needing an enchanted barrel.
-</p>
-
-<h2>Ingredients</h2>
-<ul>
-  <li>2 cups cream soda (chilled or lightly warmed)</li>
-  <li>2 tbsp butterscotch syrup (or caramel syrup)</li>
-  <li>1 tbsp unsalted butter</li>
-  <li>½ cup heavy whipping cream</li>
-  <li>1 tsp vanilla extract</li>
-  <li>Pinch of cinnamon (optional)</li>
-</ul>
-
-<h2>Steps</h2>
-<ol>
-  <li>In a small saucepan, melt the butter and whisk in the butterscotch syrup until smooth.</li>
-  <li>Stir in the cream soda gently; warm it through if desired.</li>
-  <li>Whip the heavy cream with vanilla until soft peaks form.</li>
-  <li>Pour the drink into mugs, top with whipped cream, and sprinkle with cinnamon.</li>
-</ol>
-#+end_src
-
-*** Pumpkin Pasties
-#+begin_src html
-<h1>Pumpkin Pasties</h1>
-
-<img
-  src="./images/pumpkin-pasties.jpg"
-  alt="Five baked pumpkin-pasties on a white plate, besides a Harry Potter book."
->
-
-<p>
-  Image credit:
-  <a href="https://www.flickr.com/photos/28691409@N05/9976082304" title="Harry Potter Food - Pumpkin Pasties IMG_0061">Harry Potter Food - Pumpkin Pasties IMG_0061</a> by
-  <a href="https://www.flickr.com/photos/28691409@N05/">Nicole</a>,
-  <a href="https://creativecommons.org/licenses/by-nc/2.0/deed.en" rel="license noopener noreferrer">CC BY-NC 2.0</a>
-</p>
-
-<h2>Description</h2>
-<p>
-  Pumpkin Pasties are one of the first magical foods Harry tasted aboard the Hogwarts Express.
-  These hand-sized pastries are filled with spiced pumpkin and wrapped in a flaky crust, making them the wizarding world’s answer to portable pumpkin pie.
-  They’re sweet, comforting, and ideal for autumn days.
-</p>
-
-<h2>Ingredients</h2>
-<ul>
-  <li>1 cup pumpkin purée</li>
-  <li>¼ cup brown sugar</li>
-  <li>1 tsp ground cinnamon</li>
-  <li>½ tsp ground nutmeg</li>
-  <li>½ tsp ground ginger</li>
-  <li>Pinch of salt</li>
-  <li>1 package pie crust (pre-made or homemade)</li>
-  <li>1 egg (for egg wash)</li>
-</ul>
-
-<h2>Steps</h2>
-<ul>
-  <li>Preheat oven to 375°F (190°C).</li>
-  <li>Combine pumpkin purée, sugar, and spices in a bowl.</li>
-  <li>Roll out pie crust and cut into 4–5 inch circles.</li>
-  <li>Place a spoonful of filling on half of each circle.</li>
-  <li>Fold over, press edges with a fork, and place on a baking sheet.</li>
-  <li>Brush tops with beaten egg.</li>
-  <li>Bake 20–25 minutes, until golden brown.</li>
-  <li>Cool slightly and serve warm.</li>
-</ul>
-#+end_src
-
-*** Treacle Tart
-#+begin_src html
-<h1>Treacle Tart</h1>
-
-<img
-  src="./images/treacle-tart.jpeg"
-  alt="A treacle tart pie with crossed strips on a metal grid."
->
-
-<p>
-  Image credit:
-  <a href="https://commons.wikimedia.org/wiki/File:Mary_Berry_treacle_tart_(8131434026).jpg">Tony Hall from London, UK</a>,
-  <a href="https://creativecommons.org/licenses/by/2.0">CC BY 2.0</a>, via Wikimedia Commons.
-</p>
-
-
-<h2>Description</h2>
-<p>
-  Treacle Tart, Harry Potter’s favorite dessert, is a Hogwarts feast staple.
-  Its filling is made with golden syrup (a British caramel-like sweetener), fresh breadcrumbs, and lemon.
-  The result is a gooey, sweet, and slightly tangy tart that pairs beautifully with cream.
-</p>
-
-<h2>Ingredients</h2>
-<ul>
-  <li>1 9-inch pre-baked tart shell (shortcrust pastry)</li>
-  <li>1 ¼ cups golden syrup (or substitute with light corn syrup + honey)</li>
-  <li>2 tbsp fresh breadcrumbs</li>
-  <li>2 tbsp lemon juice</li>
-  <li>Zest of 1 lemon</li>
-  <li>1 egg (beaten)</li>
-</ul>
-
-<h2>Steps</h2>
-<ol>
-  <li>Preheat oven to 375°F (190°C).</li>
-  <li>Warm the golden syrup until pourable.</li>
-  <li>Mix in breadcrumbs, lemon juice, zest, and beaten egg.</li>
-  <li>Pour filling into the tart shell and spread evenly.</li>
-  <li>Bake 25–30 minutes, until set and lightly golden.</li>
-  <li>Cool before serving with cream or whipped topping.</li>
-</ol>
-#+end_src
-
 ** Work
 We start with the homepage.
 The recipes are themed on Hogwarts!
@@ -446,3 +312,139 @@ Link it on the homepage.
 #+begin_src html :noweb-ref Links to the Recipes
 <li><a href="./recipes/treacle-tart.html">Treacle Tart</a></li>
 #+end_src
+** Contents for the Recipes
+This was fetched /before/ coding the actual pages, to ain in the planning phase.
+Very helpful!
+
+*** Butterbeer
+#+begin_src html
+<h1>Butterbeer</h1>
+
+<img
+  src="./images/butterbeer.jpg"
+  alt="Three different glasses with butterbeer and several bottles, barrels, in a pub/tavern-like scenario."
+  >
+
+<p>
+  Image credit:
+  <a href="https://commons.wikimedia.org/wiki/File:Wizarding_World_of_Harry_Potter_-_Hog%27s_Head_pub_beverages_(5014156760).jpg">The Conmunity -  Pop Culture Geek from Los Angeles, CA, USA</a>, <a href="https://creativecommons.org/licenses/by/2.0">CC BY 2.0</a>, via Wikimedia Commons.
+</p>
+
+<h2>Description</h2>
+<p>
+  Butterbeer is the quintessential wizarding drink, enjoyed by Hogwarts students on trips to Hogsmeade.
+  Frothy and comforting, it carries a rich butterscotch flavor with a hint of spice.
+  Served warm in winter or chilled in summer, this Muggle-friendly version recreates the cozy feel without needing an enchanted barrel.
+</p>
+
+<h2>Ingredients</h2>
+<ul>
+  <li>2 cups cream soda (chilled or lightly warmed)</li>
+  <li>2 tbsp butterscotch syrup (or caramel syrup)</li>
+  <li>1 tbsp unsalted butter</li>
+  <li>½ cup heavy whipping cream</li>
+  <li>1 tsp vanilla extract</li>
+  <li>Pinch of cinnamon (optional)</li>
+</ul>
+
+<h2>Steps</h2>
+<ol>
+  <li>In a small saucepan, melt the butter and whisk in the butterscotch syrup until smooth.</li>
+  <li>Stir in the cream soda gently; warm it through if desired.</li>
+  <li>Whip the heavy cream with vanilla until soft peaks form.</li>
+  <li>Pour the drink into mugs, top with whipped cream, and sprinkle with cinnamon.</li>
+</ol>
+#+end_src
+
+*** Pumpkin Pasties
+#+begin_src html
+<h1>Pumpkin Pasties</h1>
+
+<img
+  src="./images/pumpkin-pasties.jpg"
+  alt="Five baked pumpkin-pasties on a white plate, besides a Harry Potter book."
+>
+
+<p>
+  Image credit:
+  <a href="https://www.flickr.com/photos/28691409@N05/9976082304" title="Harry Potter Food - Pumpkin Pasties IMG_0061">Harry Potter Food - Pumpkin Pasties IMG_0061</a> by
+  <a href="https://www.flickr.com/photos/28691409@N05/">Nicole</a>,
+  <a href="https://creativecommons.org/licenses/by-nc/2.0/deed.en" rel="license noopener noreferrer">CC BY-NC 2.0</a>
+</p>
+
+<h2>Description</h2>
+<p>
+  Pumpkin Pasties are one of the first magical foods Harry tasted aboard the Hogwarts Express.
+  These hand-sized pastries are filled with spiced pumpkin and wrapped in a flaky crust, making them the wizarding world’s answer to portable pumpkin pie.
+  They’re sweet, comforting, and ideal for autumn days.
+</p>
+
+<h2>Ingredients</h2>
+<ul>
+  <li>1 cup pumpkin purée</li>
+  <li>¼ cup brown sugar</li>
+  <li>1 tsp ground cinnamon</li>
+  <li>½ tsp ground nutmeg</li>
+  <li>½ tsp ground ginger</li>
+  <li>Pinch of salt</li>
+  <li>1 package pie crust (pre-made or homemade)</li>
+  <li>1 egg (for egg wash)</li>
+</ul>
+
+<h2>Steps</h2>
+<ul>
+  <li>Preheat oven to 375°F (190°C).</li>
+  <li>Combine pumpkin purée, sugar, and spices in a bowl.</li>
+  <li>Roll out pie crust and cut into 4–5 inch circles.</li>
+  <li>Place a spoonful of filling on half of each circle.</li>
+  <li>Fold over, press edges with a fork, and place on a baking sheet.</li>
+  <li>Brush tops with beaten egg.</li>
+  <li>Bake 20–25 minutes, until golden brown.</li>
+  <li>Cool slightly and serve warm.</li>
+</ul>
+#+end_src
+
+*** Treacle Tart
+#+begin_src html
+<h1>Treacle Tart</h1>
+
+<img
+  src="./images/treacle-tart.jpeg"
+  alt="A treacle tart pie with crossed strips on a metal grid."
+>
+
+<p>
+  Image credit:
+  <a href="https://commons.wikimedia.org/wiki/File:Mary_Berry_treacle_tart_(8131434026).jpg">Tony Hall from London, UK</a>,
+  <a href="https://creativecommons.org/licenses/by/2.0">CC BY 2.0</a>, via Wikimedia Commons.
+</p>
+
+
+<h2>Description</h2>
+<p>
+  Treacle Tart, Harry Potter’s favorite dessert, is a Hogwarts feast staple.
+  Its filling is made with golden syrup (a British caramel-like sweetener), fresh breadcrumbs, and lemon.
+  The result is a gooey, sweet, and slightly tangy tart that pairs beautifully with cream.
+</p>
+
+<h2>Ingredients</h2>
+<ul>
+  <li>1 9-inch pre-baked tart shell (shortcrust pastry)</li>
+  <li>1 ¼ cups golden syrup (or substitute with light corn syrup + honey)</li>
+  <li>2 tbsp fresh breadcrumbs</li>
+  <li>2 tbsp lemon juice</li>
+  <li>Zest of 1 lemon</li>
+  <li>1 egg (beaten)</li>
+</ul>
+
+<h2>Steps</h2>
+<ol>
+  <li>Preheat oven to 375°F (190°C).</li>
+  <li>Warm the golden syrup until pourable.</li>
+  <li>Mix in breadcrumbs, lemon juice, zest, and beaten egg.</li>
+  <li>Pour filling into the tart shell and spread evenly.</li>
+  <li>Bake 25–30 minutes, until set and lightly golden.</li>
+  <li>Cool before serving with cream or whipped topping.</li>
+</ol>
+#+end_src
+

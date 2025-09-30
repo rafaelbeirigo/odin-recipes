@@ -51,7 +51,7 @@ All are adapted for Muggle kitchens, so you can enjoy a bit of Hogwarts magic at
 **** DONE feat(recipe): add html boilerplate
 **** DONE feat(recipe): add page title
 **** DONE feat(recipe): add main header
-**** TODO feat(recipe): add link to home
+**** DONE feat(recipe): add link to home
 #+begin_quote
 Add a link back to the index page on your recipe page for easier navigation.
 You can place this link at the top or bottom of your recipe page (e.g., lasagna.html).
@@ -250,6 +250,7 @@ Let's add the first recipe page.
 
   <body>
     <h1>Butterbeer</h1>
+    <<Link to home>>
   </body>
 </html>
 #+end_src
@@ -262,4 +263,13 @@ Then we add a link to it on the homepage.
 <ul>
   <li><a href="recipes/butterbeer.html">Butterbeer</a></li>
 </ul>
+#+end_src
+
+Also add a link back home.
+This snippet will be reused by all recipe pages.
+
+~<<Link to home>> +≡~
+
+#+begin_src html :noweb-ref Link to home
+<a href="../index.html">Home</a>
 #+end_src

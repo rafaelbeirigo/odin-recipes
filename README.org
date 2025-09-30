@@ -77,10 +77,6 @@ Under the description, add an “Ingredients” heading followed by an unordered
 Finally, under the ingredients list, add a “Steps” heading followed by an ordered list of the steps needed for making the dish.
 #+end_quote
 
-
-The plan: do it in the order of the assignment.
-I'll be able to reuse the scaffold of the trickiest part, the recipe page.
-
 ** Work
 
 *** Homepage

@@ -27,55 +27,55 @@ This is the list of planned commits, in order.
 To get here, I first outlined the folder structure, then looked at each file role and related tasks from the project assignment, finally ordered them.
 To makes things easier, I prepared all the pages' content ahead of time (recipe stuff kept on the branch dev).
 
-*** DONE feat(home): add index.html
-*** DONE feat(home): add html boilerplate
-*** DONE feat(home): add page title
-*** DONE feat(home): add main header
-#+begin_src html
-<h1>Odin Recipes</h1>
-#+end_src
-*** DONE feat(home): add a short themed introduction
-#+begin_quote
-A Taste of Hogwarts
+- [X] feat(home): add index.html
+- [X] feat(home): add html boilerplate
+- [X] feat(home): add page title
+- [X] feat(home): add main header
+  #+begin_src html
+  <h1>Odin Recipes</h1>
+  #+end_src
+- [X] feat(home): add a short themed introduction
+  #+begin_quote
+  A Taste of Hogwarts
 
-The wizarding world is filled with enchanted feasts and magical sweets, but a few recipes appear again and again in the pages of Harry Potter.
-These three recipes capture the essence of Hogwarts dining and Hogsmeade treats: a cozy drink to warm your hands, a portable pastry to snack on during long journeys, and a dessert so good it became Harry’s favorite.
-All are adapted for Muggle kitchens, so you can enjoy a bit of Hogwarts magic at home.
-#+end_quote
-*** for each recipe
-**** DONE feat(recipe): add page
-**** DONE feat(home): add link to recipe page
-#+begin_src html
-<a href="recipes/recipename.html">Recipe Name</a>
-#+end_src
-**** DONE feat(recipe): add html boilerplate
-**** DONE feat(recipe): add page title
-**** DONE feat(recipe): add main header
-**** DONE feat(recipe): add link to home
-#+begin_quote
-Add a link back to the index page on your recipe page for easier navigation.
-You can place this link at the top or bottom of your recipe page (e.g., lasagna.html).
-#+end_quote
+  The wizarding world is filled with enchanted feasts and magical sweets, but a few recipes appear again and again in the pages of Harry Potter.
+  These three recipes capture the essence of Hogwarts dining and Hogsmeade treats: a cozy drink to warm your hands, a portable pastry to snack on during long journeys, and a dessert so good it became Harry’s favorite.
+  All are adapted for Muggle kitchens, so you can enjoy a bit of Hogwarts magic at home.
+  #+end_quote
+- for each recipe
+  - [X] feat(recipe): add page
+  - [X] feat(home): add link to recipe page
+    #+begin_src html
+    <a href="recipes/recipename.html">Recipe Name</a>
+    #+end_src
+  - [X] feat(recipe): add html boilerplate
+  - [X] feat(recipe): add page title
+  - [X] feat(recipe): add main header
+  - [X] feat(recipe): add link to home
+    #+begin_quote
+    Add a link back to the index page on your recipe page for easier navigation.
+    You can place this link at the top or bottom of your recipe page (e.g., lasagna.html).
+    #+end_quote
 
-#+begin_src html
-<a href="../index.html">Home</a>
-#+end_src
-**** DONE feat(recipe): add image
-#+begin_quote
-A free image of the finished dish under the h1 heading that you added earlier.
-#+end_quote
-**** DONE feat(recipe): add description
-#+begin_quote
-Under the image, it should have an appropriately sized “Description” heading followed by a paragraph or two describing the recipe.
-#+end_quote
-**** DONE feat(recipe): add ingredients
-#+begin_quote
-Under the description, add an “Ingredients” heading followed by an unordered list of the ingredients needed for the recipe.
-#+end_quote
-**** DONE feat(recipe): add steps
-#+begin_quote
-Finally, under the ingredients list, add a “Steps” heading followed by an ordered list of the steps needed for making the dish.
-#+end_quote
+    #+begin_src html
+    <a href="../index.html">Home</a>
+    #+end_src
+  - [X] feat(recipe): add image
+    #+begin_quote
+    A free image of the finished dish under the h1 heading that you added earlier.
+    #+end_quote
+  - [X] feat(recipe): add description
+    #+begin_quote
+    Under the image, it should have an appropriately sized “Description” heading followed by a paragraph or two describing the recipe.
+    #+end_quote
+  - [X] feat(recipe): add ingredients
+    #+begin_quote
+    Under the description, add an “Ingredients” heading followed by an unordered list of the ingredients needed for the recipe.
+    #+end_quote
+  - [X] feat(recipe): add steps
+    #+begin_quote
+    Finally, under the ingredients list, add a “Steps” heading followed by an ordered list of the steps needed for making the dish.
+    #+end_quote
 
 ** Contents for the Recipes
 

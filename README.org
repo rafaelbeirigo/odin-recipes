@@ -29,7 +29,7 @@ To makes things easier, I prepared all the pages' content ahead of time (recipe 
 
 *** DONE feat(home): add index.html
 *** DONE feat(home): add html boilerplate
-*** TODO feat(home): add page title
+*** DONE feat(home): add page title
 *** TODO feat(home): add main header
 #+begin_src html
 <h1>Odin Recipes</h1>
@@ -217,7 +217,7 @@ Finally, under the ingredients list, add a “Steps” heading followed by an or
 <html lang="en">
   <head>
     <meta charset="UTF-8">
-    <title>My first page from Odin</title>
+    <title>Odin Recipes</title>
   </head>
 
   <body>

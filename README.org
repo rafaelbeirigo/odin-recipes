@@ -43,7 +43,7 @@ These three recipes capture the essence of Hogwarts dining and Hogsmeade treats:
 All are adapted for Muggle kitchens, so you can enjoy a bit of Hogwarts magic at home.
 #+end_quote
 *** for each recipe
-**** TODO feat(recipe): add page
+**** DONE feat(recipe): add page
 **** TODO feat(home): add link to recipe page
 #+begin_src html
 <a href="recipes/recipename.html">Recipe Name</a>
@@ -236,3 +236,9 @@ The recipes are themed on Hogwarts!
 #+end_src
 
 Let's add the first recipe page.
+
+[[file:~/dev/odin/1-recipes/recipes/butterbeer.html][~/dev/odin/1-recipes/recipes/butterbeer.html]] ≡
+
+#+begin_src html :tangle ~/dev/odin/1-recipes/recipes/butterbeer.html
+
+#+end_src

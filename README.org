@@ -48,7 +48,7 @@ All are adapted for Muggle kitchens, so you can enjoy a bit of Hogwarts magic at
 #+begin_src html
 <a href="recipes/recipename.html">Recipe Name</a>
 #+end_src
-**** TODO feat(recipe): add html boilerplate
+**** DONE feat(recipe): add html boilerplate
 **** TODO feat(recipe): add page title
 **** TODO feat(recipe): add main header
 **** TODO feat(recipe): add link to home
@@ -241,7 +241,16 @@ Let's add the first recipe page.
 [[file:~/dev/odin/1-recipes/recipes/butterbeer.html][~/dev/odin/1-recipes/recipes/butterbeer.html]] ≡
 
 #+begin_src html :tangle ~/dev/odin/1-recipes/recipes/butterbeer.html
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8">
+    <title></title>
+  </head>
 
+  <body>
+  </body>
+</html>
 #+end_src
 
 Then we add a link to it on the homepage.

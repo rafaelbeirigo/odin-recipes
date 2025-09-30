@@ -209,6 +209,8 @@ Finally, under the ingredients list, add a “Steps” heading followed by an or
 </ol>
 #+end_src
 ** Work
+We start with the homepage.
+The recipes are themed on Hogwarts!
 
 [[file:index.html][index.html]] ≡
 
@@ -232,3 +234,5 @@ Finally, under the ingredients list, add a “Steps” heading followed by an or
   </body>
 </html>
 #+end_src
+
+Let's add the first recipe page.

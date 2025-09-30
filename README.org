@@ -118,6 +118,7 @@ Finally, under the ingredients list, add a “Steps” heading followed by an or
   <li>Pour the drink into mugs, top with whipped cream, and sprinkle with cinnamon.</li>
 </ol>
 #+end_src
+
 *** Pumpkin Pasties
 #+begin_src html
 <h1>Pumpkin Pasties</h1>
@@ -165,6 +166,7 @@ Finally, under the ingredients list, add a “Steps” heading followed by an or
   <li>Cool slightly and serve warm.</li>
 </ul>
 #+end_src
+
 *** Treacle Tart
 #+begin_src html
 <h1>Treacle Tart</h1>

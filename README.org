@@ -23,7 +23,9 @@ But first let's get the setup done.
 
 ** Plan
 
-I believe the first thing to do would be to outline the project files and their roles.
+This is the list of planned commits, in order.
+To get here, I first outlined the folder structure, then looked at each file role and related tasks from the project assignment, finally ordered them.
+To makes things easier, I prepared all the pages' content ahead of time (recipe stuff kept on the branch dev).
 
 *** TODO feat(home): add index.html
 *** TODO feat(home): add html boilerplate

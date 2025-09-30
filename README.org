@@ -49,7 +49,7 @@ All are adapted for Muggle kitchens, so you can enjoy a bit of Hogwarts magic at
 <a href="recipes/recipename.html">Recipe Name</a>
 #+end_src
 **** DONE feat(recipe): add html boilerplate
-**** TODO feat(recipe): add page title
+**** DONE feat(recipe): add page title
 **** TODO feat(recipe): add main header
 **** TODO feat(recipe): add link to home
 #+begin_quote
@@ -245,7 +245,7 @@ Let's add the first recipe page.
 <html lang="en">
   <head>
     <meta charset="UTF-8">
-    <title></title>
+    <title>Butterbeer</title>
   </head>
 
   <body>

@@ -72,7 +72,7 @@ Under the image, it should have an appropriately sized “Description” heading
 #+begin_quote
 Under the description, add an “Ingredients” heading followed by an unordered list of the ingredients needed for the recipe.
 #+end_quote
-**** TODO feat(recipe): add steps
+**** DONE feat(recipe): add steps
 #+begin_quote
 Finally, under the ingredients list, add a “Steps” heading followed by an ordered list of the steps needed for making the dish.
 #+end_quote
@@ -254,6 +254,7 @@ Let's add the first recipe page.
     <<Link to home>>
     <<Recipe description>>
     <<Ingredients>>
+    <<Steps>>
   </body>
 </html>
 #+end_src
@@ -315,4 +316,16 @@ Let's add a nice picture, with all the important attributes, and also git the pr
   <li>1 tsp vanilla extract</li>
   <li>Pinch of cinnamon (optional)</li>
 </ul>
+#+end_src
+
+~<<Steps>> +≡~
+
+#+begin_src html :noweb-ref Steps
+<h2>Steps</h2>
+<ol>
+  <li>In a small saucepan, melt the butter and whisk in the butterscotch syrup until smooth.</li>
+  <li>Stir in the cream soda gently; warm it through if desired.</li>
+  <li>Whip the heavy cream with vanilla until soft peaks form.</li>
+  <li>Pour the drink into mugs, top with whipped cream, and sprinkle with cinnamon.</li>
+</ol>
 #+end_src

@@ -60,7 +60,7 @@ You can place this link at the top or bottom of your recipe page (e.g., lasagna.
 #+begin_src html
 <a href="../index.html">Home</a>
 #+end_src
-**** TODO feat(recipe): add image
+**** DONE feat(recipe): add image
 #+begin_quote
 A free image of the finished dish under the h1 heading that you added earlier.
 #+end_quote
@@ -250,6 +250,7 @@ Let's add the first recipe page.
 
   <body>
     <h1>Butterbeer</h1>
+    <<Recipe picture>>
     <<Link to home>>
   </body>
 </html>
@@ -272,4 +273,19 @@ This snippet will be reused by all recipe pages.
 
 #+begin_src html :noweb-ref Link to home
 <a href="../index.html">Home</a>
+#+end_src
+
+Let's add a nice picture, with all the important attributes, and also git the proper credits.
+
+~<<Recipe picture>> +≡~
+
+#+begin_src html :noweb-ref Recipe picture
+<img
+  src="../images/butterbeer.jpg"
+  alt="Three different glasses with butterbeer and several bottles, barrels, in a pub/tavern-like scenario."
+>
+<p>
+  Image credit:
+  <a href="https://commons.wikimedia.org/wiki/File:Wizarding_World_of_Harry_Potter_-_Hog%27s_Head_pub_beverages_(5014156760).jpg">The Conmunity -  Pop Culture Geek from Los Angeles, CA, USA</a>, <a href="https://creativecommons.org/licenses/by/2.0">CC BY 2.0</a>, via Wikimedia Commons.
+</p>
 #+end_src

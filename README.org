@@ -30,7 +30,7 @@ To makes things easier, I prepared all the pages' content ahead of time (recipe 
 *** DONE feat(home): add index.html
 *** DONE feat(home): add html boilerplate
 *** DONE feat(home): add page title
-*** TODO feat(home): add main header
+*** DONE feat(home): add main header
 #+begin_src html
 <h1>Odin Recipes</h1>
 #+end_src
@@ -221,7 +221,7 @@ Finally, under the ingredients list, add a “Steps” heading followed by an or
   </head>
 
   <body>
-    
+    <h1>Odin Recipes</h1>
   </body>
 </html>
 #+end_src

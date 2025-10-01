@@ -109,9 +109,9 @@ The recipes are themed on Hogwarts!
 
 Let's add the first recipe page.
 
-[[file:~/dev/odin/1-recipes/recipes/butterbeer.html][~/dev/odin/1-recipes/recipes/butterbeer.html]] ≡
+[[file:recipes/butterbeer.html][./recipes/butterbeer.html]] ≡
 
-#+begin_src html :tangle ~/dev/odin/1-recipes/recipes/butterbeer.html
+#+begin_src html :tangle ./recipes/butterbeer.html
 <!DOCTYPE html>
 <html lang="en">
   <head>

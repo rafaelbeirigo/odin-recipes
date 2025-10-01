@@ -8,6 +8,8 @@ After completing this project I expect to have improved both my HTML and Git ski
 I'll experiment with a new approach in this project, where I plan ahead all the commits, and only then start programming.
 Let's see how it goes.
 
+Edit: here are the final results of [[https://rafaelbeirigo.github.io/odin-recipes/][my implementation of the project Recipes, from The Odin Project]].
+
 ** Plan
 
 This is the list of planned commits, in order.
@@ -321,3 +323,8 @@ Link it on the homepage.
 #+begin_src html :noweb-ref Links to the Recipes
 <li><a href="./recipes/treacle-tart.html">Treacle Tart</a></li>
 #+end_src
+
+And that's it!
+You've seen it all.
+Now check out the results of [[https://rafaelbeirigo.github.io/odin-recipes/][my implementation of the project Recipes, from The Odin Project]].
+I hope you like it!

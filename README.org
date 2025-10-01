@@ -11,8 +11,8 @@ Let's see how it goes.
 ** Plan
 
 This is the list of planned commits, in order.
-To get here, I first outlined the folder structure, then looked at each file role and related tasks from the project assignment, finally ordered them.
-To makes things easier, I prepared all the pages' content ahead of time (recipe stuff kept on the branch dev).
+To get here, I first outlined the folder structure, then looked at each file role and related tasks from the project assignment, and finally ordered them.
+To makes things easier, I also prepared all the recipes pages' content (research work) ahead of time.
 
 - [X] feat(home): add index.html
 - [X] feat(home): add html boilerplate

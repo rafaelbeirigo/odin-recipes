@@ -111,8 +111,8 @@ Let's add the first recipe page.
 
   <body>
     <h1>Butterbeer</h1>
-    <<Recipe picture>>
-    <<Recipe description>>
+    <<Picture>>
+    <<Description>>
     <<Ingredients>>
     <<Steps>>
     <<Link to home>>
@@ -139,9 +139,9 @@ This snippet will be reused by all recipe pages.
 
 Let's add a nice picture, with all the important attributes, and also git the proper credits.
 
-~<<Recipe picture>> +≡~
+~<<Picture>> +≡~
 
-#+begin_src html :noweb-ref Recipe picture
+#+begin_src html :noweb-ref Picture
 <img
   src="../images/butterbeer.jpg"
   alt="Three different glasses with butterbeer and several bottles, barrels, in a pub/tavern-like scenario."
@@ -152,9 +152,9 @@ Let's add a nice picture, with all the important attributes, and also git the pr
 </p>
 #+end_src
 
-~<<Recipe description>> +≡~
+~<<Description>> +≡~
 
-#+begin_src html :noweb-ref Recipe description
+#+begin_src html :noweb-ref Description
 <h2>Description</h2>
 <p>
   Butterbeer is the quintessential wizarding drink, enjoyed by Hogwarts students on trips to Hogsmeade.

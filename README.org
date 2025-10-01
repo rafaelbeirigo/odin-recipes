@@ -323,7 +323,6 @@ Link it on the homepage.
 <li><a href="./recipes/treacle-tart.html">Treacle Tart</a></li>
 #+end_src
 
-And that's it!
-You've seen it all.
+And that's it, you've seen it all!
 Check out the results of [[https://rafaelbeirigo.github.io/odin-recipes/][my implementation of the project Recipes, from The Odin Project]].
 I hope you like it!

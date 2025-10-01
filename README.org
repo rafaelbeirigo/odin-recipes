@@ -65,6 +65,8 @@ To makes things easier, I also prepared all the recipes pages' content (research
     #+end_quote
 
 ** Work
+This project is done in Literate Programming, with Babel, from Org Mode, in Emacs.
+
 We start with the homepage.
 The recipes are themed on Hogwarts!
 

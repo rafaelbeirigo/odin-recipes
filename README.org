@@ -6,9 +6,8 @@ In this project, I am going to build a basic recipe website.
 After completing this project I expect to have improved both my HTML and Git skills.
 
 I'll experiment with a new approach in this project, where I plan ahead all the commits, and only then start programming.
-Let's see how it goes.
 
-Edit: here are the final results of [[https://rafaelbeirigo.github.io/odin-recipes/][my implementation of the project Recipes, from The Odin Project]].
+Future me: you can see here how [[https://rafaelbeirigo.github.io/odin-recipes/][my implementation of the project Recipes, from The Odin Project]] turned out.
 
 ** Plan
 
@@ -326,5 +325,5 @@ Link it on the homepage.
 
 And that's it!
 You've seen it all.
-Now check out the results of [[https://rafaelbeirigo.github.io/odin-recipes/][my implementation of the project Recipes, from The Odin Project]].
+Check out the results of [[https://rafaelbeirigo.github.io/odin-recipes/][my implementation of the project Recipes, from The Odin Project]].
 I hope you like it!
